@@ -1,5 +1,7 @@
 ### Hi I'm Tugay Sengul 👋
  ## I'm an Electrical-electronics Engineer who is interested in software. 
+ 
+  <img align="right" width="360" eight="360" frameBorder="0" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
    
 - 🔭 I’m currently working as Project and Application Engineer.
 - 🌱 I’m currently learning C# and Dart Programmin Languages
@@ -26,9 +28,9 @@
    </a>
    <br/>
    
-   <a href="">
-   <img align="left" width="480" eight="400" frameBorder="0" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
-   </a>
+ 
+  
+
    
   
 
