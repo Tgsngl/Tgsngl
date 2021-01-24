@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi I'm Tugay Sengul 👋
+##I'm an Electrical-electronics Engineer who is interested in software. 
 
-<!--
-**Tgsngl/Tgsngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on as Prject and Application Engineer.
+- 🌱 I’m currently learning C# and Dart Programmin Languages
+- 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community.
+- 💬 You can ask me about anything that you wonder.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐦 [twitter][twitter] **|** 
+📷 [Gmail][gmail] **|** 
+👔 [linkedin][linkedin]
+📷 [instagram][instagram] **|**
+
+
+[twitter]: https://twitter.com/Tgysngll
+[gmail]: tgysngll@gmail.com
+[linkedin]: https://www.linkedin.com/in/tgysngl
+[instagram]: https://www.instagram.com/tgysngl
