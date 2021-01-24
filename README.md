@@ -1,9 +1,9 @@
 ### Hi I'm Tugay Sengul 👋
 ## I'm an Electrical-electronics Engineer who is interested in software. 
 
-- 🔭 I’m currently working on as Project and Application Engineer.
+- 🔭 I’m currently working as Project and Application Engineer.
 - 🌱 I’m currently learning C# and Dart Programmin Languages
-- 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community.
+- 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community etc.
 - 💬 You can ask me about anything that you wonder.
 
 
