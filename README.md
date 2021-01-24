@@ -8,17 +8,8 @@
 - 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community etc.
 - 💬 You can ask me about anything that you wonder.
 
-  <a href="https://twitter.com/Tgysngll">
-   <img align="left" alt="Tugay Sengul's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-   </a>
-   <a href="https://www.linkedin.com/in/tgysngl">
-   <img align="left" alt="Ohidur Rahman Bappy's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-   </a>
    <a href="https://github.com/Tgsngl">
    <img align="left" alt="Tugay Sengul's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-   </a>
-   <a href="https://www.instagram.com/tgysngl">
-   <img align="left" alt="Tugay Sengul's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
    </a>
    <a href="https://www.facebook.com/Thend3/">
    <img align="left" alt="Tugay Sengul's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -28,7 +19,15 @@
    </a>
    <br/>
    
- 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/Tgysngll
+[instagram]: https://www.instagram.com/tgysngl
+[linkedin]: https://www.linkedin.com/in/tgysngl
+
   
 
    
