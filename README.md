@@ -20,10 +20,10 @@
    <img align="left" alt="Tugay Sengul's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />
    </a>
 
-- 🔭 I’m currently working as Project and Application Engineer.
-- 🌱 I’m currently learning C# and Dart Programmin Languages
-- 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community etc.
-- 💬 You can ask me about anything that you wonder.
+   - 🔭 I’m currently working as Project and Application Engineer.
+   - 🌱 I’m currently learning C# and Dart Programmin Languages
+   - 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community etc.
+   - 💬 You can ask me about anything that you wonder.
 
 
  
