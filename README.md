@@ -26,8 +26,8 @@
    </a>
    <br/>
    
-   <a href="g">
-   <img align="left" alt="Tugay Sengul's" width="16px" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+   <a href="">
+   <img align="left" width="480" eight="400" frameBorder="0" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" />
    </a>
    
   
