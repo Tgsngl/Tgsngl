@@ -1,5 +1,5 @@
 ### Hi I'm Tugay Sengul 👋
-##I'm an Electrical-electronics Engineer who is interested in software. 
+## I'm an Electrical-electronics Engineer who is interested in software. 
 
 - 🔭 I’m currently working on as Prject and Application Engineer.
 - 🌱 I’m currently learning C# and Dart Programmin Languages
