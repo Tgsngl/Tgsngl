@@ -1,5 +1,5 @@
 ### Hi I'm Tugay Sengul 👋
- ## I'm an Electrical-electronics Engineer who is interested in software. 
+ ## I'm an Electrical-Electronics Engineer who is interested in software. 
  
   <img align="right" width="360" eight="360" frameBorder="0" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
    
