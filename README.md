@@ -4,7 +4,7 @@
   <img align="right" width="360" eight="360" frameBorder="0" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif" />
    
 - 🔭 I’m currently working as Project and Application Engineer.
-- 🌱 I’m currently learning C# and Dart Programmin Languages
+- 🌱 I’m currently learning C# and Dart Programming Languages
 - 🤔  You can help me about C#, Dart, Flutter, Android Studio and VS Community etc.
 - 💬 You can ask me about anything that you wonder.
 
